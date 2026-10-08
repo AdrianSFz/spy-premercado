@@ -8,9 +8,8 @@ Ejecuta este script por la mañana (antes de las 9:30 ET) para obtener:
   1. Movimiento overnight de los futuros de EE.UU. (ES, NQ, YM, RTY) + VIX
   2. Alineación y divergencias entre ellos
   3. Contexto de Asia y Europa
-  4. Sesgo según tu método (SPY vs media 200 en 5min y 75 en 15min)
-  5. Correlaciones recientes
-  6. Lectura del día (risk-on / risk-off / mixto)
+  4. Correlaciones recientes
+  5. Lectura del día (risk-on / risk-off / mixto)
 
 TODOS los horarios se muestran en hora del Este (ET) de EE.UU.
 
