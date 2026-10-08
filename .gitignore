@@ -1,0 +1,12 @@
+# Secretos y datos locales — nunca subir a GitHub
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
